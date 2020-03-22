@@ -1,0 +1,59 @@
+<component name="libraryTable">
+  <library name="com.github.aoreshin:allure-rest-assured:1.4.6" type="repository">
+    <properties maven-id="com.github.aoreshin:allure-rest-assured:1.4.6" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/aoreshin/allure-rest-assured/1.4.6/allure-rest-assured-1.4.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.5.2/junit-jupiter-api-5.5.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.5.2/junit-platform-commons-1.5.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/qameta/allure/allure-junit5/2.13.0/allure-junit5-2.13.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/qameta/allure/allure-junit-platform/2.13.0/allure-junit-platform-2.13.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/qameta/allure/allure-java-commons/2.13.0/allure-java-commons-2.13.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/qameta/allure/allure-model/2.13.0/allure-model-2.13.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tika/tika-core/1.20/tika-core-1.20.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jooq/joor-java-8/0.9.10/joor-java-8-0.9.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-launcher/1.4.0/junit-platform-launcher-1.4.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-engine/1.4.0/junit-platform-engine-1.4.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/aoreshin/allure-steps/1.4.6/allure-steps-1.4.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.11.2/log4j-core-2.11.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-jcl/2.11.2/log4j-jcl-2.11.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.9.5/aspectjweaver-1.9.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.2.2.RELEASE/spring-data-commons-2.2.2.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.1.RELEASE/spring-core-5.2.1.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.1.RELEASE/spring-beans-5.2.1.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.1.RELEASE/spring-context-5.2.1.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.1.RELEASE/spring-aop-5.2.1.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-expression/5.2.1.RELEASE/spring-expression-5.2.1.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/rest-assured/rest-assured/4.0.0/rest-assured-4.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy/2.5.6/groovy-2.5.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-xml/2.5.6/groovy-xml-2.5.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.9/commons-codec-1.9.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/2.1/hamcrest-core-2.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-library/2.1/hamcrest-library-2.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/rest-assured/json-path/4.0.0/json-path-4.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-json/2.5.6/groovy-json-2.5.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/rest-assured/rest-assured-common/4.0.0/rest-assured-common-4.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/rest-assured/xml-path/4.0.0/xml-path-4.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/xml/bind/jaxb-api/2.2.12/jaxb-api-2.2.12.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/bind/jaxb-osgi/2.2.10/jaxb-osgi-2.2.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/activation/activation/1.1.1/activation-1.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/awaitility/awaitility/4.0.2/awaitility-4.0.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
